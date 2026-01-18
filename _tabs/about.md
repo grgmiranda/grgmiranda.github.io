@@ -56,7 +56,7 @@ Caso tenha interesse, eu detalhei em uma postagem <a
   critério. Isso se aplica à forma do site e não ao conteúdo dos textos, é
   claro. </p>
 
-<p>O <a href="https://github.com/ggio/ggio.github.io">repositório</a> contendo
+<p>O <a href="https://github.com/grgmiranda/grgmiranda.github.io">repositório</a> contendo
   todo o código fonte do site é público. Você pode acessá-lo, usar partes do
   código em seu site ou, inclusive, usar todo ele como ponto de partida de seu
   próprio site.</p>
