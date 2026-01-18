@@ -31,7 +31,7 @@ Apesar de você ter a opção de começar um site do zero, nós vamos ser mais e
 
 Vá, gaste um tempo e escolha um que lhe agrade. Tem para todos os gostos, desde mais [simples](https://carte-noire.jacobtomlinson.co.uk/) e [minimalistas](https://nadjetey.github.io/redcup/) até alguns bem [completos](https://phlow.github.io/feeling-responsive/), [bacanosos](https://t413.com/SinglePaged/), e até meio [extravagantes](https://digitalmind.ch/themes/twister-jekyll-theme/demo/).
 
-Da minha parte, comecei com o [Long Haul](https://brianmaierjr.com/long-haul/), criado por [Brian Maier](https://twitter.com/brianmaier). O tema é simples, bem instrumentalizado, e tem uma documentação razoável, mas acabei modificando muita coisa. Você também pode usar [minha própria versão do tema](https://github.com/ggio/ggio.github.io), a.k.a. este site que você acessa agora, como ponto de partida para o seu, mas recomendo começar com um tema mesmo, pela organização, limpeza e tals.
+Da minha parte, comecei com o [Long Haul](https://brianmaierjr.com/long-haul/), criado por [Brian Maier](https://twitter.com/brianmaier). O tema é simples, bem instrumentalizado, e tem uma documentação razoável, mas acabei modificando muita coisa. Você também pode usar [minha própria versão do tema](https://github.com/grgmiranda/grgmiranda.github.io), a.k.a. este site que você acessa agora, como ponto de partida para o seu, mas recomendo começar com um tema mesmo, pela organização, limpeza e tals.
 
 > <b> Atualização: </b> em 2025, migrei para o tema <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a>, com alguns ajustes. Fiz isso basicamente porque queria algo minimalista e de fácil manutenção, ainda que com estilo. Continuo achando o <i>Long Haul</i> um ótimo ponto de partida, mas acabou caindo a ficha de que ele é um tema um tanto mais elaborado do que a média, com as vantagens e desvantagens disso.
 {: .prompt-info }
@@ -346,7 +346,7 @@ Detratores dirão que eu só fiz isso porque não consegui configurar nenhuma op
 -->
 ## Integrando Jekyll com Reveal.js
 
-[Reveal.js](https://lab.hakim.se/reveal-js/#/) é um sistema foda de criação de apresentações de slides em HTML. A integração com o Jekyll é bem descrita no [site do Luu Gia Thuy](https://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/). Ele só esqueceu de dizer que, se você pretende modificar os temas padrão, você precisa __clonar__ (e não adicionar como submodule) o reveal.js à sua pasta. Você pode ter uma ideia melhor de como organizar as pastas e arquivos html dos slides no [meu repositório](https://github.com/ggio/ggio.github.io/tree/master/slides).
+[Reveal.js](https://lab.hakim.se/reveal-js/#/) é um sistema foda de criação de apresentações de slides em HTML. A integração com o Jekyll é bem descrita no [site do Luu Gia Thuy](https://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/). Ele só esqueceu de dizer que, se você pretende modificar os temas padrão, você precisa __clonar__ (e não adicionar como submodule) o reveal.js à sua pasta. Você pode ter uma ideia melhor de como organizar as pastas e arquivos html dos slides no [meu repositório](https://github.com/grgmiranda/grgmiranda.github.io/tree/master/slides).
 
 ## Páginas de subcategorias
 
